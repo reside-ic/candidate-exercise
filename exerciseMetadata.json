@@ -107,7 +107,7 @@
         {
             "id": "hospitalAdmissions",
             "label": "Hospital admissions",
-            "description": ""
+            "description": "Annual number of hospital admissions per 100,000 population"
         }
     ]
 }
