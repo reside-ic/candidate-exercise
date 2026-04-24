@@ -107,7 +107,8 @@
         {
             "id": "hospitalAdmissions",
             "label": "Hospital admissions",
-            "description": "Annual number of hospital admissions per 100,000 population"
+            "description": "Annual number of hospital admissions per 100,000 population by age group"
+
         }
     ]
 }
