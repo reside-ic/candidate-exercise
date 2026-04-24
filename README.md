@@ -1,4 +1,4 @@
-# RESIDE Candidate exercise
+# RESIDE candidate exercise
 
 Please spend around an hour on this exercise, and get as far as you can. We're more interested in your approach rather than completion.
 
