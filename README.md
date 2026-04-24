@@ -22,4 +22,3 @@ In future versions of the data and metadata, the set of indicators and/or age gr
 If you have time, think about how this data could be plotted in a useful way to the user, and implement this visualisation.
 
 You can return your submission by email or with a link to your code. Please provide instructions on how to run your application.
-Jot something down
