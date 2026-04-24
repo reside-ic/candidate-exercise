@@ -20,5 +20,6 @@ For the purposes of this exercise it is not necessary to provide labels for coun
 In future versions of the data and metadata, the set of indicators and/or age groups may differ e.g. a new indicator, modified labels and descriptions, or age groups of 10 years rather than 5 years. Your application should be written in such a way that such changes would be reflected automatically in the user interface.
 
 If you have time, think about how this data could be plotted in a useful way to the user, and implement this visualisation.
+For the purposes of this exercise, this should not be a geographical map, but some other type of data visualisation.
 
 You can return your submission by email or with a link to your code. Please provide instructions on how to run your application.
