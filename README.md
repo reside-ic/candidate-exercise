@@ -1,6 +1,6 @@
 # RESIDE candidate exercise
 
-Please spend around an hour on this exercise, and get as far as you can. We're more interested in your approach rather than completion.
+We advise you to spend about half an hour on planning out the task, finding suitable libraries and bootstrapping. After that, please spend around an hour on this exercise, and get as far as you can. We're more interested in your approach rather than completion.
 
 ## Resources
 `exerciseData.json` contains mean and standard deviation values for three indicators of dengue infection: force of infection, seroprevalence in 9 year olds and hospital admissions by 5 year age groups. These values are provided for "Admin 2" (district level) regions, indicated by their IDs as defined by [GADM](https://gadm.org). The Admin 0 (country level) ID is also provided for each value.
